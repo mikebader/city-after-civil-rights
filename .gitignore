@@ -10,3 +10,6 @@ _archive/*
 *.log
 *.out
 *.synctex.gz
+
+## Course Offerings
+offerings/*
